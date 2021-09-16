@@ -4,3 +4,5 @@
 # use cowsay commands [>>> cowsay.cow ('Hello Class!')]
 # more commands can be found online [https://pypi.org/project/cowsay/]
 # Add (edit) your favorite cowsay commands to this file and submit
+
+cowsay.dragon('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris blandit rhoncus nibh. Mauris mi mauris, molestie vel metus sit amet, aliquam vulputate nibh.')
